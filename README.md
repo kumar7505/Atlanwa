@@ -29,14 +29,12 @@ In the project directory, you can run:
 ![Screenshot (56)](./client/public/read-images/164770647-b057c741-369b-4826-9963-e58cce11bae4.png)
 
 # Cart Page
-![Screenshot (57)](https://user-images.githubusercontent.com/95868808/164770719-8ff3d828-d7f7-4a98-8b90-579759d44755.png)
+![Screenshot (57)](./client/public/read-images/(2)164770719-8ff3d828-d7f7-4a98-8b90-579759d44755.png)
 
 ### Auth Page
-![Screenshot (47)](https://user-images.githubusercontent.com/95868808/164770795-0e44b600-460c-48af-b1c9-841a1f029ea2.png)
+![Screenshot (47)](./client/public/read-images/(3)164770795-0e44b600-460c-48af-b1c9-841a1f029ea2.png)
 
-![Screenshot (45)](https://user-images.githubusercontent.com/95868808/164770912-00088e64-b631-4bd0-a331-ba9df4cdefd4.png)
-
-![Screenshot (58)](https://user-images.githubusercontent.com/95868808/164770957-fcb7151a-fb51-4f2f-bbcf-051e2a6edb36.png)
+![Screenshot (58)](./client/public/read-images/(4)164770957-fcb7151a-fb51-4f2f-bbcf-051e2a6edb36.png)
 
 
 
