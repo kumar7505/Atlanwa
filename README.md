@@ -12,21 +12,21 @@ In the project directory, you can run:
 ### Landing Page
 ![udemy](./client/public/read-images/1.jpeg)
 
-![Screenshot (48)](https://user-images.githubusercontent.com/95868808/164770230-08107c00-a20f-4efd-a4ff-90b8dd779e3f.png)
+![Screenshot (48)](./client/public/read-images/2.jpeg)
 
 ## Popper Card
-![Screenshot (50)](https://user-images.githubusercontent.com/95868808/164770326-ca410c76-dd05-482b-9edf-b8106377506c.png)
+![Screenshot (50)](./client/public/read-images/3.jpeg)
 
-![Screenshot (49)](https://user-images.githubusercontent.com/95868808/164770484-1f9aad9d-18cb-4dc8-b702-b0ccb6671e7e.png)
+![Screenshot (49)](./client/public/read-images/4.jpeg)
 
-![Screenshot (53)](https://user-images.githubusercontent.com/95868808/164770579-ce42547f-fac3-4ae1-b77c-e5d0303b9118.png)
+![Screenshot (53)](./client/public/read-images/5.jpeg)
 
 ![Screenshot (54)](./client/public/read-images/6.jpeg)
 
 ![Screenshot (55)](./client/public/read-images/7.jpeg)
 
 ### Product Page
-![Screenshot (56)](https://user-images.githubusercontent.com/95868808/164770647-b057c741-369b-4826-9963-e58cce11bae4.png)
+![Screenshot (56)](./client/public/read-images/164770647-b057c741-369b-4826-9963-e58cce11bae4.png)
 
 # Cart Page
 ![Screenshot (57)](https://user-images.githubusercontent.com/95868808/164770719-8ff3d828-d7f7-4a98-8b90-579759d44755.png)
