@@ -23,7 +23,7 @@ const Signup = () => {
     const { name, value } = e.target;
     setUser({ ...userdata, [name]: value });
   };
-  if (user.token != undefined) {
+  if (user.token !== undefined) {
     console.log(user._id);
     return <Navigate to={"/"} />;
   }

@@ -6,6 +6,7 @@ const verifyToken = (token) => {
     jwt.verify(token, process.env.JWT_SECRET_KEY, (err, user) => {
       if (err) return reject(err);
       resolve(user);
+      console.log("kumar");
     });
   });
 };

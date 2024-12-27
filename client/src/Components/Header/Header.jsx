@@ -22,11 +22,11 @@ export const Header = () => {
   useEffect(() => {
     let token = JSON.parse(localStorage.getItem("token")) || null;
     if (user.user == null) {
-      if (token != null) {
+      if (token !== null) {
         dispatch(auth(token));
       }
     }
-    if (token != null)
+    if (token !== null)
       axios
         .get(`https://udemy-vr4p.onrender.com/cart/${token?.user?._id}`)
         .then(({ data }) => {
@@ -66,7 +66,7 @@ export const Header = () => {
               <span className="nav-span">Teach on Edura</span>
             </Link>
           </div>
-          {user?.user != null ? (
+          {user?.user !== null ? (
             <div>
               <Link className="linkstyle" to={"#"}>
                 <span className="nav-span">My learning</span>
@@ -76,7 +76,7 @@ export const Header = () => {
             ""
           )}
           {/* testing */}
-          {user?.user != null ? (
+          {user?.user !== null ? (
             <div>
               <Link to={"/wishlist"}>
                 <button className="cart">
@@ -96,7 +96,7 @@ export const Header = () => {
               </button>
             </Link>
           </div>
-          {user?.user != null ? (
+          {user?.user !== null ? (
             <div>
               <Link to={"#"}>
                 <button className="cart">
@@ -109,7 +109,7 @@ export const Header = () => {
           ) : (
             ""
           )}
-          {user?.user != null ? (
+          {user?.user !== null ? (
             <div>
               <Link to={"#"}>
                 <button className="cart">
@@ -120,7 +120,7 @@ export const Header = () => {
                     variant="dot"
                   >
                     <Avatar sx={{ bgcolor: deepPurple[500] }}>
-                      {user.user != null
+                      {user.user !== null
                         ? user.user?.name[0].toUpperCase()
                         : null}
                     </Avatar>
@@ -133,7 +133,7 @@ export const Header = () => {
           )}
           {/* testing */}
 
-          {user?.user != null ? (
+          {user?.user == null ? (
             ""
           ) : (
             <div>
@@ -142,7 +142,7 @@ export const Header = () => {
               </Link>
             </div>
           )}
-          {user?.user != null ? (
+          {user?.user == null ? (
             ""
           ) : (
             <div>
@@ -151,7 +151,7 @@ export const Header = () => {
               </Link>
             </div>
           )}
-          {user?.user != null ? (
+          {user?.user == null ? (
             ""
           ) : (
             <div>

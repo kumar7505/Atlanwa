@@ -332,7 +332,7 @@ const PitchCard2 = () => {
     <div className="pitch-cont">
       <img
         className="pitchcard2img"
-        src="https://www.udemy.com/staticx/udemy/images/v7/logo-ub.svg"
+        src="/read-images/business-logo.png"
         alt=""
       />
       <p className="pitchdec">

@@ -9,7 +9,7 @@ const Payment = () => {
   const [loading, setLoading] = useState(false);
   useEffect(() => {
     let token = JSON.parse(localStorage.getItem("token")) || null;
-    if (token != null)
+    if (token !== null)
       axios
         .get(`https://udemy-vr4p.onrender.com/cart/${token?.user?._id}`)
         .then(({ data }) => {
@@ -212,7 +212,7 @@ const Payment = () => {
                 <div classname="course_price">
                   <span>
                     {" "}
-                    <b>&#8377;{price != 0 ? price - price * 0.1 : 0} </b>
+                    <b>&#8377;{price !== 0 ? price - price * 0.1 : 0} </b>
                   </span>
                 </div>
               </td>
