@@ -10,7 +10,7 @@ In the project directory, you can run:
 2. udemy-clone/client it contains Frontend
 
 ### Landing Page
-![udemy](https://user-images.githubusercontent.com/95868808/164769657-b0d5d855-a218-4c62-9573-7a174a88795a.png)
+![udemy](/read-images/business-logo.png)
 
 ![Screenshot (48)](https://user-images.githubusercontent.com/95868808/164770230-08107c00-a20f-4efd-a4ff-90b8dd779e3f.png)
 
