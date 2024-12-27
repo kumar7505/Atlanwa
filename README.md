@@ -10,7 +10,7 @@ In the project directory, you can run:
 2. udemy-clone/client it contains Frontend
 
 ### Landing Page
-![udemy](/read-images/business-logo.png)
+![udemy](./client/public/read-images/1.jpeg)
 
 ![Screenshot (48)](https://user-images.githubusercontent.com/95868808/164770230-08107c00-a20f-4efd-a4ff-90b8dd779e3f.png)
 
@@ -21,9 +21,9 @@ In the project directory, you can run:
 
 ![Screenshot (53)](https://user-images.githubusercontent.com/95868808/164770579-ce42547f-fac3-4ae1-b77c-e5d0303b9118.png)
 
-![Screenshot (54)](https://user-images.githubusercontent.com/95868808/164770603-a1bd8a4d-1643-42ed-9d8c-2cf1de946415.png)
+![Screenshot (54)](./client/public/read-images/6.jpeg)
 
-![Screenshot (55)](https://user-images.githubusercontent.com/95868808/164770616-fe75c8be-6f59-463d-abf5-64d8cebd4faa.png)
+![Screenshot (55)](./client/public/read-images/7.jpeg)
 
 ### Product Page
 ![Screenshot (56)](https://user-images.githubusercontent.com/95868808/164770647-b057c741-369b-4826-9963-e58cce11bae4.png)
